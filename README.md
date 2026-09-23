@@ -538,7 +538,7 @@ Address in column major : 1632
 
 
            ASSIGNMENT:5 
-           Q(18)Implement bubble Sort
+Q(18)Implement bubble Sort
 
 
              PROGRAM 
